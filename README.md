@@ -24,6 +24,8 @@ A basic product page layout with HTML and CSS. It includes a navigation bar, mai
 
 - Adding JavaScript for interactivity (e.g., working "Add to Cart" button).
 ## Screen shots
+![Desktop view of 4x4 grid layout](projectp2\productss.png)
+
 -Adding product img ("C:\Users\Supri\OneDrive\Desktop\projectp2\productss.png")
 -Adding related images ("C:\Users\Supri\OneDrive\Desktop\projectp2\relatedimg.png")
 
