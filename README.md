@@ -23,3 +23,8 @@ A basic product page layout with HTML and CSS. It includes a navigation bar, mai
 ## Future Ideas
 
 - Adding JavaScript for interactivity (e.g., working "Add to Cart" button).
+## Screen shots
+-Adding product img ("C:\Users\Supri\OneDrive\Desktop\projectp2\productss.png")
+-Adding related images ("C:\Users\Supri\OneDrive\Desktop\projectp2\relatedimg.png")
+
+
