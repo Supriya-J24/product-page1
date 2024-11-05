@@ -124,9 +124,9 @@ body {
 
 .product-grid {
     display: flex;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
-    justify-content: center;
+    padding: 20px;
 }
 
 .product-card {
