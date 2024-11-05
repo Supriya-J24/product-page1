@@ -65,6 +65,44 @@ body {
     flex: 1;
     padding: 20px;
 }
+.product-name {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.product-description {
+    font-size: 1em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.product-price {
+    font-size: 1.5em;
+    color: #1a73e8;
+    margin-bottom: 20px;
+}
+
+.add-to-cart {
+    background-color: #1a73e8;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-to-cart:hover {
+    background-color: #155cb0;
+}
+
+
+
+
+
+
+
 
 .related-products {
     margin-top: 30px;
